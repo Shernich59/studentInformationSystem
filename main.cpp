@@ -1,8 +1,3 @@
-// CPM 213 Assignment 2- Student Information System
-// Group Talioyo
-// Catherine Lim Lee Ping 143677
-// Tan Seok Ling 141421
-
 
 #include <iostream>
 #include <string>
